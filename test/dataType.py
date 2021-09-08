@@ -187,8 +187,5 @@ new_tuple = tuple([1231,111])
 print(new_tuple)
 
 
-#-------python3的数据类型---------
-'''
- 数字类型（Number）: 整数、布尔型、浮点数和复数
- 字符串 （String）:python中单引号和双引号使用完全相同
-'''
+
+
